@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junit.TestMainPage" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-06-03T19:19:33" hostname="MB397483" time="11.386">
+  <properties/>
+  <testcase name="testOpenPage()" classname="junit.TestMainPage" time="1.819"/>
+  <testcase name="testOpenSignUpPopup()" classname="junit.TestMainPage" time="9.561"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 83.0.4103.39 (ccbf011cb2d2b19b506d844400483861342c20cd-refs/branch-heads/4103@{#416}) on port 15160
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[1591211970.992][WARNING]: FromSockAddr failed on netmask
+ChromeDriver was started successfully.
+июн 03, 2020 10:19:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
